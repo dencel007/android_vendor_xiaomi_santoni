@@ -89,10 +89,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so \
     vendor/xiaomi/santoni/proprietary/lib/hw/fingerprint.searchf.so:system/lib/hw/fingerprint.searchf.so \
     vendor/xiaomi/santoni/proprietary/lib/libcom_fingerprints_service.so:system/lib/libcom_fingerprints_service.so \
-    vendor/xiaomi/santoni/proprietary/lib64//hw/fingerprint.fpc.so:system/lib64//hw/fingerprint.fpc.so \
-    vendor/xiaomi/santoni/proprietary/lib64//hw/fingerprint.goodix.so:system/lib64//hw/fingerprint.goodix.so \
-    vendor/xiaomi/santoni/proprietary/lib64//hw/fingerprint.searchf.so:system/lib64//hw/fingerprint.searchf.so \
-    vendor/xiaomi/santoni/proprietary/lib64//hw/gxfingerprint.default.so:system/lib64//hw/gxfingerprint.default.so \
+    vendor/xiaomi/santoni/proprietary/lib64/hw/fingerprint.fpc.so:system/lib64/hw/fingerprint.fpc.so \
+    vendor/xiaomi/santoni/proprietary/lib64/hw/fingerprint.goodix.so:system/lib64/hw/fingerprint.goodix.so \
+    vendor/xiaomi/santoni/proprietary/lib64/hw/fingerprint.searchf.so:system/lib64/hw/fingerprint.searchf.so \
+    vendor/xiaomi/santoni/proprietary/lib64/hw/gxfingerprint.default.so:system/lib64/hw/gxfingerprint.default.so \
     vendor/xiaomi/santoni/proprietary/lib64/hw/consumerir.default.so:system/lib64/hw/consumerir.default.so \
     vendor/xiaomi/santoni/proprietary/lib64/libcom_fingerprints_service.so:system/lib64/libcom_fingerprints_service.so \
     vendor/xiaomi/santoni/proprietary/lib64/libfp_client.so:system/lib64/libfp_client.so \
